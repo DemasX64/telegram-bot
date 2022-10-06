@@ -4,6 +4,7 @@
 
 - node.js
 - telegraf.js
+- sqlite
 - puppeteer
 - axios
 - middleware
